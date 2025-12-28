@@ -45,7 +45,7 @@ A simple, full-stack notes application built with Node.js, Express, TypeScript, 
 ## Project Structure
 
 ```
-webapp2/
+webapp/
 ├── server.ts          # Express server
 ├── package.json       # Dependencies and scripts
 ├── public/
