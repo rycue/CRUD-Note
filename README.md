@@ -20,7 +20,7 @@ A simple, full-stack notes application built with Node.js, Express, TypeScript, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd webapp2
+   cd YOUR_REPO_NAME
    ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ A simple, full-stack notes application built with Node.js, Express, TypeScript, 
 ## Project Structure
 
 ```
-webapp/
+project/
 ├── server.ts          # Express server
 ├── package.json       # Dependencies and scripts
 ├── public/
@@ -58,4 +58,4 @@ webapp/
 
 ---
 
-<center><i>Built as a learning project for Node.js and Express. 🚀</i></center>
+Built as a learning project for Node.js and Express. 🚀
